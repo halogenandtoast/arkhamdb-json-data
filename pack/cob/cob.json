@@ -2,6 +2,7 @@
     {
         "code": "13029",
         "cost": 3,
+        "deck_limit": 1,
         "encounter_code": "river_of_blood",
         "encounter_position": 34,
         "faction_code": "neutral",
@@ -23,6 +24,7 @@
     {
         "code": "13030",
         "cost": 3,
+        "deck_limit": 1,
         "encounter_code": "river_of_blood",
         "encounter_position": 35,
         "faction_code": "neutral",
@@ -41,6 +43,7 @@
     {
         "code": "13066",
         "cost": 3,
+        "deck_limit": 1,
         "encounter_code": "new_horizons",
         "encounter_position": 45,
         "faction_code": "neutral",
@@ -58,6 +61,7 @@
     {
         "code": "13067",
         "cost": 1,
+        "deck_limit": 1,
         "encounter_code": "new_horizons",
         "encounter_position": 46,
         "faction_code": "neutral",
@@ -114,6 +118,7 @@
     {
         "code": "13105",
         "cost": 3,
+        "deck_limit": 1,
         "encounter_code": "friends_in_low_places",
         "encounter_position": 1,
         "faction_code": "neutral",
