@@ -1482,5 +1482,25 @@
     {
         "code": "whippoorwills_ch2",
         "name": "Whippoorwills"
+    },
+    {
+        "code": "river_of_blood",
+        "name": "River of Blood"
+    },
+    {
+        "code": "new_horizons",
+        "name": "New Horizons"
+    },
+    {
+        "code": "friends_in_low_places",
+        "name": "Friends in Low Places"
+    },
+    {
+        "code": "blood_money",
+        "name": "Blood Money"
+    },
+    {
+        "code": "infected",
+        "name": "Infected"
     }
 ]
