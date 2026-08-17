@@ -34,7 +34,7 @@
         "quantity": 1,
         "skill_combat": 2,
         "slot": "Hand",
-        "text": "Uses (4 charges).\n[action]: <b>Fight</b> ([combat]). You get +3 [combat] for this attack.\nAs an additional cost to activate this ability, you may spend 1 charge to reveal 2 chaos tokens for this skill test instead of 1 (<i>resolve both tokens</i>).\nThis attack deals +1 damage for each [blood] token revealed during this test.",
+        "text": "Uses (4 charges).\n[action]: <b>Fight</b> ([combat]). You get +3 [combat] for this attack.\nAs an additional cost to activate this ability, you may spend 1 charge to reveal 2 chaos tokens for this skill test instead of 1 <i>(resolve both tokens)</i>.\nThis attack deals +1 damage for each [blood] token revealed during this test.",
         "traits": "Item. Weapon. Relic.",
         "type_code": "asset"
     },
