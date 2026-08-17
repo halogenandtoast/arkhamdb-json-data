@@ -51,7 +51,7 @@
         "quantity": 1,
         "skill_intellect": 2,
         "slot": "Arcane",
-        "text": "Uses (4 charges).\n[action]: <b>Investigate</b> ([intellect]). You get +3 [intellect] for this investigation. As an additional cost to activate this ability, you may spend 1 charge to reveal 2 chaos tokens for this skill test instead of 1 (<i>resolve both tokens</i>). If you succeed, discover 1 additional clue for each [blood] token revealed during this test.",
+        "text": "Uses (4 charges).\n[action]: <b>Investigate</b> ([intellect]). You get +3 [intellect] for this investigation. As an additional cost to activate this ability, you may spend 1 charge to reveal 2 chaos tokens for this skill test instead of 1 <i>(resolve both tokens)</i>. If you succeed, discover 1 additional clue for each [blood] token revealed during this test.",
         "traits": "Spell.",
         "type_code": "asset"
     },
